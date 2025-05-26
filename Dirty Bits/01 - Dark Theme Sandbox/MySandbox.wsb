@@ -1,0 +1,12 @@
+<Configuration>
+    <Networking>Enable</Networking>
+    <MappedFolders>
+        <MappedFolder>
+            <HostFolder>C:\Users\ThreatHunterChronicles\Scripts</HostFolder>
+            <SandboxFolder>C:\Users\WDAGUtilityAccount\Documents\Scripts</SandboxFolder>
+        </MappedFolder>
+    </MappedFolders>
+    <LogonCommand>
+        <Command>C:\Users\WDAGUtilityAccount\Documents\Scripts\WSBstartup.cmd</Command>
+    </LogonCommand>
+</Configuration>
