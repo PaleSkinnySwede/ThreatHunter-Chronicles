@@ -1,4 +1,4 @@
-# ThreatHunter-Chronicles
+# ThreatHunter Chronicles
 
 👋🏻 Hey there — I’m David, a cybersecurity and threat hunting nerd with a passion for parsing chaos into clarity.
 I’m proud to be a Microsoft MVP in Security (SIEM & XDR), and I use this blog as my digital outpost for sharing what I’ve learned (and what I’m still figuring out) when it comes to threat detection, log investigation, and data parsing in modern SOC environments.
