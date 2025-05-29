@@ -19,6 +19,6 @@ Whether it's exploring the weird edge cases of KQL, reverse-engineering beaconin
 Use the code examples at your own risk. These does NOT come with any guarantee.
 
 🌍 URL to the blog:
-https://hreathunter-chronicles.medium.com/
+https://threathunter-chronicles.medium.com/
 
 🪵 Logs don't lie.
